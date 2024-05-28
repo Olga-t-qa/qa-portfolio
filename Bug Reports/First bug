@@ -1,0 +1,14 @@
+{
+"Bug_id":"1",
+"Title":"[Frontend] Order tracking page didn’t switch to dark mode"
+"Steps":
+{
+"1"Dark mode on device is on
+"2"Dark mode toggle is on
+"3"Snoosend opened
+"4"Create the order
+"5"Open the order tracking page from Snoonu app
+},
+"Actual result":"Page is not in dark mode",
+"Expected result": "Page is  in dark mode"
+}
