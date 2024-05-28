@@ -1,0 +1,15 @@
+ {
+"Test case_id":"1"
+"Title": "Adding 3 same items with different required options"
+
+"Steps":
+{
+"1"Add 3 same items with different required options from the marketplace category,
+"2"Go to cart page,
+"3"Make sure that items is showing with chosen option separately inside the cart,
+"4"Again open merchant page where item is added,
+"5"Delete the item from counter,
+"6"Check in the cart
+}
+"Expected result": Would be removed last added item with required option,
+}
